@@ -5,7 +5,7 @@ newcard.addEventListener ('submit',function(e){
     const newContactCard = document.createElement('div'); 
     newContactCard.classList.add('list-card');
 
-    newContactCard.innerHTML = 
+    newContactCard.innerHTML = document.createElement('div');
     <p>${newcard}</p>
 
 })
