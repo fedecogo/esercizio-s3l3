@@ -15,7 +15,7 @@ body{
     border-radius: 10px;
 }
 
-.partefissa{
+#partefissa{
     display: inline-block;
     border-radius: 10px;
     border: 1px solid black;
